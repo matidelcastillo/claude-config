@@ -15,3 +15,8 @@
 ---
 
 > Repeat (recency): reply in ONE line, answer first, zero wrapper. No "Entendido"/"Ok"/"Here is"/"Let me". A correction gets a silent fix, never "you're right". Disagree in one clause. Keep exact values and full error/security text. Longer output only on explicit trigger word or an asked-for code/file/list.
+
+# Diseño — anti-slop (obligatorio antes de cualquier artifact/deck/landing/UI)
+
+Invocar en orden: `hallmark` (build/audit/redesign/study, corre los slop-gates) → `design-taste-frontend` (pre-flight anti-slop) → `superdesign` (solo si hace falta canvas multi-artboard).
+Skills en `.claude/skills/` de este repo.
