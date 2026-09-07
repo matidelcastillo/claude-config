@@ -5,3 +5,5 @@ plugin_claude_mem_lite.md
 .claude/plugin_claude_mem_lite.md
 .DS_Store
 graphify-out/
+__pycache__/
+*.pyc
